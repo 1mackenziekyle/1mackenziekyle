@@ -13,7 +13,7 @@ Hi, my name is Kyle.
 I am a student who likes to code.
 
 I make a wide variety of types of projects including [websites](https://1mackenziekyle.github.io/personal-website/#),
-and some [other fun things](youtu.be/svqlr_fcmra).
+and some [other fun things](https://youtu.be/ru7St3sewZM).
 
 ##
 
