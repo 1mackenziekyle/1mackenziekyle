@@ -2,6 +2,4 @@
 
 #### Kyle Mackenzie
 
-###### [Personal Website](https://1mackenziekyle.github.io/personal-website/#)
-
-###### [Contact Me](https://1mackenziekyle.github.io/personal-website/#/contact)
+###### [Personal Website](https://1mackenziekyle.github.io)
